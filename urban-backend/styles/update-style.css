@@ -1,0 +1,55 @@
+/* update-style.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 80px;
+}
+
+.content {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+.label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+.link {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.btn {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+.cancel {
+    background-color: #f44336;
+}
+
+.err1 {
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+}
+
+/* Add additional styles as needed */
