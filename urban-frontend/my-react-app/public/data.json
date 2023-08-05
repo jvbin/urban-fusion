@@ -1,0 +1,100 @@
+{
+    "stores": [
+      {
+        "name": "SuperMart",
+        "zip_code": "12345",
+        "ratings": 4.5,
+        "state":"Andra",
+        "city":"Palakkad",
+        "latitude":"8.5581",
+        "longtitude":"-76.8816",
+        "address": "123 Main Street, Cityville",
+        "contact_number": "+1 123-456-7890"
+      },
+      {
+        "name": "MegaMart",
+        "zip_code": "54321",
+        "ratings": 4.2,
+        "state":"tamil Nadu",
+        "city":"chennai",
+        "latitude":"8.7379",
+        "longtitude":"-76.7163",
+        "address": "456 Broadway Avenue, Townsville",
+        "contact_number": "+1 987-654-3210"
+      },
+      {
+        "name": "QuickShop",
+        "zip_code": "67890",
+        "ratings": 4.8,
+        "state":"punjab",
+        "city":"kochi",
+        "latitude":"8.5154",
+        "longtitude":"-76.8977",
+        "address": "789 Elm Street, Villageland",
+        "contact_number": "+1 567-890-1234"
+      },
+      {
+        "name": "SuperMart",
+        "zip_code": "34560",
+        "ratings": 4.5,
+        "state":"maharashtra",
+        "city":"mumbai",
+        "latitude":"8.4874",
+        "longtitude":"-76.9263",
+        "address": "123 Main Street, Cityville",
+        "contact_number": "+1 123-456-7890"
+      },
+      {
+        "name": "MegaMart",
+        "zip_code": "89761",
+        "ratings": 4.2,
+        "state":"kerala",
+        "city":"trivandrum",
+        "latitude":"8.4784",
+        "longtitude":"-76.9119",
+        "address": "456 Broadway Avenue, Townsville",
+        "contact_number": "+1 987-654-3210"
+      },
+      {
+        "name": "QuickShop",
+        "zip_code": "98090",
+        "ratings": 4.8,
+        "state":"kerala",
+        "city":"kottayam",
+        "latitude":"8.0844",
+        "longtitude":"-77.5495",
+        "address": "789 Elm Street, Villageland",
+        "contact_number": "+1 567-890-1234"
+      },
+      {
+        "name": "SuperMart",
+        "zip_code": "34560",
+        "ratings": 4.5,
+        "state":"karnataka",
+        "city":"Bangaluru",
+        "latitude":"8.0844",
+        "longtitude":"-77.5495",
+        "address": "123 Main Street, Cityville",
+        "contact_number": "+1 123-456-7890"
+      },
+      {
+        "name": "MegaMart",
+        "zip_code": "67891",
+        "state":"karnataka",
+        "city":"Bangaluru",
+        "ratings": 4.2,
+        "address": "456 Broadway Avenue, Townsville",
+        "contact_number": "+1 987-654-3210"
+      },
+      {
+        "name": "QuickShop",
+        "zip_code": "23453",
+        "ratings": 4.8,
+        "state":"tamil Nadu",
+        "city":"chennai",
+        "address": "789 Elm Street, Villageland",
+        "contact_number": "+1 567-890-1234"
+      }
+    ]
+  }
+  

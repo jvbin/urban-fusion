@@ -1,0 +1,155 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+li{
+  list-style: none;
+
+}
+.search img {
+  padding:20px;
+  width:35px;
+  
+}
+.inner-logo{
+  width:55%;
+  display:flex;
+  justify-content: space-between;
+}
+.logo{
+
+  display:flex;
+  justify-content: end;
+}
+.search{
+
+  margin-right: 90px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  align-content: center;
+}
+.main-logo{
+  display: flex;
+  justify-content: space-around;
+  width:10%;
+}
+.search-image{
+  margin-right: 90px;
+ 
+}
+header{
+  background-color: #fffcf6;
+  height:20%;
+}
+.store-link{
+ cursor: pointer;
+}
+.header{
+  width:50%;
+  margin:0 auto;
+}
+ li  .header{
+  list-style: none;
+  float: left;
+  display: flex;
+  justify-content: space-between;
+  
+}
+.search ul {
+  display: flex;
+  justify-content: space-between;
+  padding:0px;
+}
+.store-finder{
+  display: flex;
+  justify-content: space-between;
+  padding:0px;
+  padding: 27px;
+  margin: 0px;
+}
+.data li{
+  display: block;
+}
+
+.side-popup {
+  position: fixed;
+  top: 0;
+  right: -300px; 
+  width: 300px;
+  height: 100%;
+  background-color: #f8f8f8;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  transition: right 0.3s ease-in-out;
+  z-index: 999;
+}
+
+.side-popup.open {
+  right: 0; 
+}
+
+.full-list{
+  display: flex;
+  flex-direction: column ;
+  align-items: center;
+  bottom: -800px;   
+  position: absolute;
+  margin:0 auto;
+  width:100%;
+  padding:10px;
+  border-radius:100;
+  background-color: black;
+  color:white;
+
+
+}
+button .full-list{
+  border: 1px solid black;
+  align-items: center;
+  padding:50px;
+  margin:50px;
+
+}
+.banner-image{
+  width:100%;
+}
+.fulllist{
+  position: relative;
+  align-items: center;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
