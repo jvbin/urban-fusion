@@ -25,7 +25,8 @@ $result = $conn->query($sql);
 <head>
     <title>Store table</title>
     <link rel="stylesheet" type="text/css" href="styles/grid.css">
-
+    <a href="logout.php" class="logout-button">Logout</a>
+    
     <style>
         table {
             border-collapse: collapse;
