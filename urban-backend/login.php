@@ -17,17 +17,13 @@ if (isset($_COOKIE['email']) || isset($_COOKIE['pswd'])) {
 <head>
     <title>Login</title>
     <link rel="stylesheet" href="./styles/login.css">
-
 </head>
 
 <body>
-    <div class="intro">
-        <a href="index.php"><img src="urban-fusion-logo.png" class="intro1"></a>
-    </div>
     <p class=intro2>Sign in to Urban Fusion</p>
     <div class="login-wrap">
         <div class="login-html">
-            <input id="tab-1" type="radio" name="tab" class="sign-in" checked><label for="tab-1" class="tab">Sign In</label>
+            <label><b>Sign in</b></label><br><br>
             <div class="login-form">
                 <div class="sign-in-htm">
                     <form action="./includes/login.inc.php" method="POST">
